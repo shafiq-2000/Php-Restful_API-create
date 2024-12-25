@@ -1,0 +1,3 @@
+ ---api.php code coyy and myapi.php code nijer kora
+---akhane api.php and myapi.php te same code kora hoise
+---index.php fake api theke table a show korano hoise
